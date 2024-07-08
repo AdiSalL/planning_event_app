@@ -1,0 +1,17 @@
+{
+    "name": "pc/planning_event_app",
+    "description": "Planning Event App with HTML CSS OOP PHP MVC",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Pc\\PlanningEventApp\\App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AdiSalL",
+            "email": "adiefsal@gmail.com"
+        }
+    ],
+    "require": {}
+}
